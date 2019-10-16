@@ -1,0 +1,31 @@
+into device label EC0 code_regex BDC,\s+16, replace_matched begin BD00,8,BD01,8, end;
+into device label EC0 code_regex BFC,\s+16, replace_matched begin BF00,8,BF01,8, end;
+into device label EC0 code_regex BRTE,\s+16, replace_matched begin BR00,8,BR01,8, end;
+into device label EC0 code_regex BME,\s+16, replace_matched begin BM00,8,BM01,8, end;
+into device label EC0 code_regex BDV,\s+16, replace_matched begin BD02,8,BD03,8, end;
+into device label EC0 code_regex BCV1,\s+16, replace_matched begin BC00,8,BC01,8, end;
+into device label EC0 code_regex BATE,\s+16, replace_matched begin BA00,8,BA01,8, end;
+into device label EC0 code_regex BPR,\s+16, replace_matched begin BP00,8,BP01,8, end;
+into device label EC0 code_regex BCR,\s+16, replace_matched begin BC02,8,BC03,8, end;
+into device label EC0 code_regex BRC,\s+16, replace_matched begin BR02,8,BR03,8, end;
+into device label EC0 code_regex BCC,\s+16, replace_matched begin BC04,8,BC05,8, end;
+into device label EC0 code_regex BPV,\s+16, replace_matched begin BP02,8,BP03,8, end;
+into device label EC0 code_regex BCV2,\s+16, replace_matched begin BV00,8,BV01,8, end;
+into device label EC0 code_regex BCV3,\s+16, replace_matched begin BV02,8,BV03,8, end;
+into device label EC0 code_regex BCV4,\s+16, replace_matched begin BV04,8,BV05,8, end;
+into device label EC0 code_regex BATF,\s+16, replace_matched begin BT00,8,BT01,8, end;
+into device label EC0 code_regex BCL,\s+16, replace_matched begin BL00,8,BL01,8, end;
+into device label EC0 code_regex MAXC,\s+16, replace_matched begin MA00,8,MA01,8, end;
+into device label EC0 code_regex BSTS,\s+16, replace_matched begin BS00,8,BS01,8, end;
+into device label EC0 code_regex BSN,\s+16, replace_matched begin BS02,8,BS03,8, end;
+into device label EC0 code_regex BDAT,\s+16, replace_matched begin BT02,8,BT03,8, end;
+into device label EC0 code_regex CBT,\s+16, replace_matched begin CB00,8,CB01,8, end;
+into device label EC0 code_regex ACPR,\s+16, replace_matched begin AC00,8,AC01,8, end;
+into method label B1B2 remove_entry;
+into definitionblock code_regex . insert
+begin
+Method (B1B2, 2, NotSerialized)\n
+{\n
+Return(Or(Arg0, ShiftLeft(Arg1, 8)))\n
+}\n
+end;
