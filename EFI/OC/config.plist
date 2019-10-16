@@ -83,17 +83,24 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>V2luZG93cyAyMDE1AA==</data>
+				<data>
+				V2luZG93cyAyMDE1AA==
+				</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data></data>
+				<data>
+				</data>
 				<key>OemTableId</key>
-				<data></data>
+				<data>
+				</data>
 				<key>Replace</key>
-				<data>RGFyd2luAKOjo6Ojow==</data>
+				<data>
+				RGFyd2luAKOjo6Ojow==
+				</data>
 				<key>ReplaceMask</key>
-				<data></data>
+				<data>
+				</data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
@@ -107,11 +114,15 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>X0RTTQ==</data>
+				<data>
+				X0RTTQ==
+				</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Replace</key>
-				<data>WERTTQ==</data>
+				<data>
+				WERTTQ==
+				</data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
@@ -125,11 +136,15 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>X1BSVw==</data>
+				<data>
+				X1BSVw==
+				</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Replace</key>
-				<data>WFBSVw==</data>
+				<data>
+				WFBSVw==
+				</data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
@@ -143,11 +158,15 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>X1BSVw==</data>
+				<data>
+				X1BSVw==
+				</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Replace</key>
-				<data>WFBSVw==</data>
+				<data>
+				WFBSVw==
+				</data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
@@ -161,11 +180,15 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>X1BSVw==</data>
+				<data>
+				X1BSVw==
+				</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Replace</key>
-				<data>WFBSVw==</data>
+				<data>
+				WFBSVw==
+				</data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
@@ -179,11 +202,15 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>X1BSVw==</data>
+				<data>
+				X1BSVw==
+				</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Replace</key>
-				<data>WFBSVw==</data>
+				<data>
+				WFBSVw==
+				</data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
@@ -197,29 +224,15 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>R1BSVwI=</data>
+				<data>
+				R1BSVwI=
+				</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Replace</key>
-				<data>WFBSVwI=</data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>change SAT0 to SATA</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<true/>
-				<key>Find</key>
-				<data>U0FUMA==</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Replace</key>
-				<data>U0FUQQ==</data>
+				<data>
+				WFBSVwI=
+				</data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
@@ -233,11 +246,15 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>RUMwXw==</data>
+				<data>
+				RUMwXw==
+				</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Replace</key>
-				<data>RUNfXw==</data>
+				<data>
+				RUNfXw==
+				</data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
@@ -251,11 +268,15 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>FCVHQUNX</data>
+				<data>
+				FCVHQUNX
+				</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Replace</key>
-				<data>FCVYR0FD</data>
+				<data>
+				FCVYR0FD
+				</data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
@@ -269,11 +290,15 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>RQRHQkFX</data>
+				<data>
+				RQRHQkFX
+				</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Replace</key>
-				<data>RQRYR0FC</data>
+				<data>
+				RQRYR0FC
+				</data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
@@ -287,11 +312,15 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>QlRJRg==</data>
+				<data>
+				QlRJRg==
+				</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Replace</key>
-				<data>WEJUSQ==</data>
+				<data>
+				WEJUSQ==
+				</data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
@@ -305,11 +334,15 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>QlRTVA==</data>
+				<data>
+				QlRTVA==
+				</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Replace</key>
-				<data>WEJUUw==</data>
+				<data>
+				WEJUUw==
+				</data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
@@ -323,11 +356,15 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>TQRJVExC</data>
+				<data>
+				TQRJVExC
+				</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Replace</key>
-				<data>TQRYSVRM</data>
+				<data>
+				TQRYSVRM
+				</data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
@@ -341,11 +378,15 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>RUJHQlRJ</data>
+				<data>
+				RUJHQlRJ
+				</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Replace</key>
-				<data>RUJYR0JU</data>
+				<data>
+				RUJYR0JU
+				</data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
@@ -359,11 +400,15 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>QiBHQlRD</data>
+				<data>
+				QiBHQlRD
+				</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Replace</key>
-				<data>QiBYR0JV</data>
+				<data>
+				QiBYR0JV
+				</data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
@@ -377,11 +422,15 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>SSZTQlRD</data>
+				<data>
+				SSZTQlRD
+				</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Replace</key>
-				<data>SSZYU0JU</data>
+				<data>
+				SSZYU0JU
+				</data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
@@ -395,11 +444,15 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>TwdHQ0dD</data>
+				<data>
+				TwdHQ0dD
+				</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Replace</key>
-				<data>TwdYR0NH</data>
+				<data>
+				TwdYR0NH
+				</data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
@@ -413,11 +466,15 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>X0JJRgA=</data>
+				<data>
+				X0JJRgA=
+				</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Replace</key>
-				<data>WEJJRgA=</data>
+				<data>
+				WEJJRgA=
+				</data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
@@ -431,11 +488,15 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>X0JTVAA=</data>
+				<data>
+				X0JTVAA=
+				</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Replace</key>
-				<data>WEJTVAA=</data>
+				<data>
+				WEJTVAA=
+				</data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
@@ -449,11 +510,15 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>X1BUUwE=</data>
+				<data>
+				X1BUUwE=
+				</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Replace</key>
-				<data>WlBUUwE=</data>
+				<data>
+				WlBUUwE=
+				</data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
@@ -467,27 +532,15 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>X1dBSwk=</data>
+				<data>
+				X1dBSwk=
+				</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Replace</key>
-				<data>WldBSwk=</data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<true/>
-				<key>Find</key>
-				<data>SEVDSQ==</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Replace</key>
-				<data>SU1FSQ==</data>
+				<data>
+				WldBSwk=
+				</data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
@@ -543,38 +596,68 @@
 			<key>PciRoot(0x0)/Pci(0x1f,0x3)</key>
 			<dict>
 				<key>device-id</key>
-				<data>cKEAAA==</data>
+				<data>
+				cKEAAA==
+				</data>
 				<key>layout-id</key>
-				<data>YwAAAA==</data>
+				<data>
+				YwAAAA==
+				</data>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>AACbPg==</data>
+				<data>
+				AACbPg==
+				</data>
 				<key>device-id</key>
-				<data>mz4AAA==</data>
+				<data>
+				mz4AAA==
+				</data>
 				<key>disable-external-gpu</key>
-				<data>AQAAAA==</data>
+				<data>
+				AQAAAA==
+				</data>
 				<key>enable-hdmi20</key>
-				<data>AQAAAA==</data>
+				<data>
+				AQAAAA==
+				</data>
 				<key>enable-lspcon-support</key>
-				<data>AQAAAA==</data>
+				<data>
+				AQAAAA==
+				</data>
 				<key>framebuffer-con1-busid</key>
-				<data>AQAAAA==</data>
+				<data>
+				AQAAAA==
+				</data>
 				<key>framebuffer-con1-enable</key>
-				<data>AQAAAA==</data>
+				<data>
+				AQAAAA==
+				</data>
 				<key>framebuffer-con1-has-lspcon</key>
-				<data>AQAAAA==</data>
+				<data>
+				AQAAAA==
+				</data>
 				<key>framebuffer-con1-preferred-lspcon-mode</key>
-				<data>AQAAAA==</data>
+				<data>
+				AQAAAA==
+				</data>
 				<key>framebuffer-con1-type</key>
-				<data>AAgAAA==</data>
+				<data>
+				AAgAAA==
+				</data>
 				<key>framebuffer-fbmem</key>
-				<data>AACQAA==</data>
+				<data>
+				AACQAA==
+				</data>
 				<key>framebuffer-patch-enable</key>
-				<data>AQAAAA==</data>
+				<data>
+				AQAAAA==
+				</data>
 				<key>framebuffer-stolenmem</key>
-				<data>AAAwAQ==</data>
+				<data>
+				AAAwAQ==
+				</data>
 			</dict>
 		</dict>
 	</dict>
@@ -875,21 +958,29 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>RTugAAEAAHU=</data>
+				<data>
+				RTugAAEAAHU=
+				</data>
 				<key>Identifier</key>
 				<string>com.apple.driver.AppleRTC</string>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data>///wAP////8=</data>
+				<data>
+				///wAP////8=
+				</data>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
 				<string></string>
 				<key>Replace</key>
-				<data>AAAAAAAAAOs=</data>
+				<data>
+				AAAAAAAAAOs=
+				</data>
 				<key>ReplaceMask</key>
-				<data>AAAAAAAAAP8=</data>
+				<data>
+				AAAAAAAAAP8=
+				</data>
 				<key>Skip</key>
 				<integer>0</integer>
 			</dict>
@@ -1000,18 +1091,26 @@
 			<key>4D1EDE05-38C7-4A6A-9CC6-4BCCA8B38C14</key>
 			<dict>
 				<key>UIScale</key>
-				<data>AQ==</data>
+				<data>
+				AQ==
+				</data>
 			</dict>
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>boot-args</key>
 				<string>-v</string>
 				<key>csr-active-config</key>
-				<data>5wMAAA==</data>
+				<data>
+				5wMAAA==
+				</data>
 				<key>nvda_drv</key>
-				<data>MA==</data>
+				<data>
+				MA==
+				</data>
 				<key>prev-lang:kbd</key>
-				<data>emgtSGFuczoyNTI=</data>
+				<data>
+				emgtSGFuczoyNTI=
+				</data>
 			</dict>
 		</dict>
 		<key>LegacyEnable</key>
@@ -1035,7 +1134,9 @@
 			<key>MLB</key>
 			<string></string>
 			<key>ROM</key>
-			<data>ESIzAAAA</data>
+			<data>
+			ESIzAAAA
+			</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
@@ -1050,7 +1151,9 @@
 			<key>MLB</key>
 			<string></string>
 			<key>ROM</key>
-			<data>ESIzAAAA</data>
+			<data>
+			ESIzAAAA
+			</data>
 		</dict>
 		<key>SMBIOS</key>
 		<dict>
