@@ -8,8 +8,8 @@
 // Replace:  58 42 41 57 00
 //
 // In config ACPI, BTIF renamed XTIF
-// Find:     42 54 49 46 09
-// Replace:  58 54 49 46 09
+// Find:     42 54 49 46 09 79
+// Replace:  58 54 49 46 09 79
 //
 // In config ACPI, BTST renamed XTST
 // Find:     42 54 53 54 0A
@@ -32,8 +32,8 @@
 // Replace:  58 42 54 43 03
 //
 // In config ACPI, GCGC renamed XCGC
-// Find:     47 43 47 43 00
-// Replace:  58 43 47 43 00
+// Find:     47 43 47 43 08
+// Replace:  58 43 47 43 08
 //
 DefinitionBlock ("", "SSDT", 2, "ACDT", "BAT0", 0x00000000)
 {
