@@ -16,6 +16,12 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
+				<string>SSDT-XOSI.aml</string>
+			</dict>
+			<dict>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
 				<string>SSDT-PNLF.aml</string>
 			</dict>
 			<dict>
@@ -83,14 +89,14 @@
 		<array>
 			<dict>
 				<key>Comment</key>
-				<string>Windows 2015 to Darwin</string>
+				<string>_OSI to XOSI</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
 				<data>
-				V2luZG93cyAyMDE1AA==
+				X09TSQ==
 				</data>
 				<key>Limit</key>
 				<integer>0</integer>
@@ -102,7 +108,7 @@
 				</data>
 				<key>Replace</key>
 				<data>
-				RGFyd2luAKOjo6Ojow==
+				WE9TSQ==
 				</data>
 				<key>ReplaceMask</key>
 				<data>
@@ -180,20 +186,20 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>BTIF to XBTI</string>
+				<string>BTIF to XTIF</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
 				<data>
-				QlRJRg==
+				QlRJRgl5
 				</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Replace</key>
 				<data>
-				WEJUSQ==
+				WFRJRgl5
 				</data>
 				<key>Skip</key>
 				<integer>0</integer>
@@ -202,20 +208,20 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>BTST to XBTS</string>
+				<string>BTST to XTST</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
 				<data>
-				QlRTVA==
+				QlRTVAo=
 				</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Replace</key>
 				<data>
-				WEJUUw==
+				WFRTVAo=
 				</data>
 				<key>Skip</key>
 				<integer>0</integer>
@@ -246,20 +252,20 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>GBTI to XGBT</string>
+				<string>GBTI to XBTI</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
 				<data>
-				RUJHQlRJ
+				R0JUSQE=
 				</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Replace</key>
 				<data>
-				RUJYR0JU
+				WEJUSQE=
 				</data>
 				<key>Skip</key>
 				<integer>0</integer>
@@ -326,72 +332,6 @@
 				<key>Replace</key>
 				<data>
 				TwdYR0NH
-				</data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>_BIF to XBIF</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<true/>
-				<key>Find</key>
-				<data>
-				X0JJRgA=
-				</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Replace</key>
-				<data>
-				WEJJRgA=
-				</data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>_BST to XBST</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<true/>
-				<key>Find</key>
-				<data>
-				X0JTVAA=
-				</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Replace</key>
-				<data>
-				WEJTVAA=
-				</data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>_BST to XBST</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<true/>
-				<key>Find</key>
-				<data>
-				X0JTVAA=
-				</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Replace</key>
-				<data>
-				WEJTVAA=
 				</data>
 				<key>Skip</key>
 				<integer>0</integer>
