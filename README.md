@@ -25,7 +25,6 @@ This repository provides Open Core configuration files for HP Zhan66 Pro14 G2.
 
 <b>正常工作项说明</b>
 
-- 亮度调解按键 FN+F3 | FN+F4
 - SystemSerialNumber & MLB 请在config.plst相关条目下自行添加
 - boot-args: `-v` 请按需选择是否保留
 -  RtWlanU1827.kext & RtWlanU.kext USB无线网卡驱动
@@ -38,6 +37,7 @@ This repository provides Open Core configuration files for HP Zhan66 Pro14 G2.
 - 读卡器
 - 指纹传感器
 - Intel 无线网卡&蓝牙
+- 亮度调解按键 FN+F3 | FN+F4 （系统偏好设置->键盘->快捷键->显示器 选项卡内修改）
 
 ## 资料
 
@@ -46,6 +46,7 @@ This repository provides Open Core configuration files for HP Zhan66 Pro14 G2.
 
 -  ACIP hotpatch 修补
    - 参阅：[OC-little](https://github.com/daliansky/OC-little)
+   - 感谢 @宪武 重写电池部分hotpatch，并对各项配置进行排错
 
 ## 许可证声明
 
