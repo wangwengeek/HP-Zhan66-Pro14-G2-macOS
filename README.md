@@ -37,7 +37,7 @@ This repository provides Open Core configuration files for HP Zhan66 Pro14 G2.
 - 读卡器
 - 指纹传感器
 - Intel 无线网卡&蓝牙
-- 亮度调解按键 FN+F3 | FN+F4 （系统偏好设置->键盘->快捷键->显示器 选项卡内修改）
+- 亮度调解按键 FN+F3 | FN+F4
 
 ## 资料
 
