@@ -46,7 +46,7 @@ This repository provides Open Core configuration files for HP Zhan66 Pro14 G2.
 
 -  ACIP hotpatch 修补
    - 参阅：[OC-little](https://github.com/daliansky/OC-little)
-   - 感谢 @宪武 重写电池部分hotpatch，并对各项配置进行排错
+   - 感谢 <b>@宪武</b> 重写电池部分hotpatch，并对各项配置进行排错
 
 ## 许可证声明
 
