@@ -41,7 +41,7 @@ This repository provides Open Core configuration files for HP Zhan66 Pro14 G2.
 - 指纹传感器
 - Intel 无线网卡&蓝牙
 - 安装后首次开机触摸板不可用，执行以下命令清除缓存后重启，请将测试结果反馈到issues里
-  - 'sudo kextcache -i /'
+  - `sudo kextcache -i /`
 
 ## 资料
 
