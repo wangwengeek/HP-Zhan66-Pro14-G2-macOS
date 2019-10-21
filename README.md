@@ -43,9 +43,10 @@ This repository provides Open Core configuration files for HP Zhan66 Pro14 G2.
 
 -  Open Core
    - 参阅：[OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)
+   - 参阅：[OpenCorePkg 中文资料](https://github.com/chiccheung/HP-Zhan66-Pro14-G2-macOS/tree/master/Docs)
 
 -  ACIP hotpatch 修补
-   - 参阅：[OC-little](https://github.com/daliansky/OC-little)
+   - 参阅：[OC-little By@宪武](https://github.com/chiccheung/HP-Zhan66-Pro14-G2-macOS/tree/master/Docs/OC-%E9%83%A8%E4%BB%B6%E8%A1%A5%E4%B8%81)
    - 感谢 <b>@宪武</b> 重写电池部分hotpatch，并对各项配置进行排错
 
 ## 许可证声明
