@@ -45,4 +45,4 @@
 
 - 感谢：@冬瓜-X1C5th, @OC-xlivans, @Air 13 IWL-GZ-Big Orange (OC perfect), @子骏oc IWL, @大勇-小新air13-OC-划水小白 等等
 
-- Thanks to [Acidanthera](https://github.com/acidanthera) for providing [AppleSupportPkg](https://github.com/acidanthera/AppleSupportPkg), ~~[AptioFixPkg](https://github.com/acidanthera/AptioFixPkg)~~(Achieved), [MacInfoPkg](https://github.com/acidanthera/MacInfoPkg), [OCSupportPkg](https://github.com/acidanthera/OCSupportPkg) and [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg).
+- Thanks to [Acidanthera](https://github.com/acidanthera) for providing [AppleSupportPkg](https://github.com/acidanthera/AppleSupportPkg),  [MacInfoPkg](https://github.com/acidanthera/MacInfoPkg), [OCSupportPkg](https://github.com/acidanthera/OCSupportPkg) and [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg).
