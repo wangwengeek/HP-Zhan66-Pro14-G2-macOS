@@ -36,7 +36,7 @@ This repository provides Open Core configuration files for HP Zhan66 Pro14 G2.
 <b>不正常工作项说明</b>
 
 - 独立显卡
-  - 注入设备属性 `disable-external-gpu` 禁用此设备以减少电量消耗
+  - 已注入设备属性 `disable-external-gpu` 禁用此设备减少电量消耗
 - 读卡器
 - 指纹传感器
 - Intel 无线网卡&蓝牙
@@ -50,7 +50,7 @@ This repository provides Open Core configuration files for HP Zhan66 Pro14 G2.
    - 参阅：[OpenCorePkg 中文资料](https://github.com/chiccheung/HP-Zhan66-Pro14-G2-macOS/tree/master/Docs)
 
 -  ACIP hotpatch 修补
-   - 参阅：[OC-little By宪武](https://github.com/chiccheung/HP-Zhan66-Pro14-G2-macOS/tree/master/Docs/OC-%E9%83%A8%E4%BB%B6%E8%A1%A5%E4%B8%81)
+   - 参阅：[OC-little By 宪武](https://github.com/chiccheung/HP-Zhan66-Pro14-G2-macOS/tree/master/Docs/OC-%E9%83%A8%E4%BB%B6%E8%A1%A5%E4%B8%81)
    - 感谢 <b>@宪武</b> 重写电池部分hotpatch，并对各项配置进行排错
 
 ## 许可证声明
