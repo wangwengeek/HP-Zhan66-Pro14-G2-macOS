@@ -26,6 +26,7 @@ This repository provides Open Core configuration files for HP Zhan66 Pro14 G2.
 <b>正常工作项说明</b>
 
 - SystemSerialNumber & MLB 请在config.plst相关条目下自行添加
+  -参阅：[精解OpenCore(2019.10.5).pdf](https://github.com/chiccheung/HP-Zhan66-Pro14-G2-macOS/tree/master/Docs/oc%E9%85%8D%E7%BD%AE%E5%B8%AE%E5%8A%A9%E8%AF%B4%E6%98%8E)
 - boot-args: `-v` 请按需选择是否保留
 - 亮度调解按键 FN+F3 | FN+F4
 - 可使用[HIDPI](https://github.com/chiccheung/HP-Zhan66-Pro14-G2-macOS/tree/master/HIDPI)开启高清分辨率支持
