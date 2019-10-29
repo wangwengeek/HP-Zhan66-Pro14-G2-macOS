@@ -26,7 +26,7 @@ This repository provides Open Core configuration files for HP Zhan66 Pro14 G2.
 <b>正常工作项说明</b>
 
 - boot-args: `-v` 请按需选择是否保留
-- <b>亮度调解按键 FN+F3 | FN+F4</b>
+- <b>亮度调节按键 FN+F3 | FN+F4</b>
 - 可使用[HIDPI](https://github.com/chiccheung/HP-Zhan66-Pro14-G2-macOS/tree/master/HIDPI)开启高清分辨率支持
 -  RtWlanU1827.kext & RtWlanU.kext <b>USB无线网卡驱动</b>
    - 参阅：[Wireless-USB-Adapter-Clover](https://github.com/chris1111/Wireless-USB-Adapter-Clover) 
