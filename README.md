@@ -26,10 +26,12 @@ This repository provides Open Core configuration files for HP Zhan66 Pro14 G2.
 <b>正常工作项说明</b>
 
 - boot-args: `-v` 请按需选择是否保留
-- 亮度调解按键 FN+F3 | FN+F4
+- <b>亮度调解按键 FN+F3 | FN+F4</b>
 - 可使用[HIDPI](https://github.com/chiccheung/HP-Zhan66-Pro14-G2-macOS/tree/master/HIDPI)开启高清分辨率支持
--  RtWlanU1827.kext & RtWlanU.kext USB无线网卡驱动
+-  RtWlanU1827.kext & RtWlanU.kext <b>USB无线网卡驱动</b>
    - 参阅：[Wireless-USB-Adapter-Clover](https://github.com/chris1111/Wireless-USB-Adapter-Clover) 
+   - 默认已放置以上USB网卡驱动，但仍需安装上述驱动，否则状态栏不显示Wi-Fi图标。
+   - 运行后会在EFI目录下创建Clover文件夹，请手动删除。
 
 <b>不正常工作项说明</b>
 
@@ -41,7 +43,7 @@ This repository provides Open Core configuration files for HP Zhan66 Pro14 G2.
 - SystemSerialNumber & MLB 请在config.plst相关条目下自行添加，以正常使用 App Store & iMessage
   - 参阅：[精解OpenCore(2019.10.5).pdf](https://github.com/chiccheung/HP-Zhan66-Pro14-G2-macOS/tree/master/Docs/oc%E9%85%8D%E7%BD%AE%E5%B8%AE%E5%8A%A9%E8%AF%B4%E6%98%8E)
   - 工具：[macinfo](https://github.com/acidanthera/MacInfoPkg/releases)
-- 首次开机触摸板不可用，执行以下命令清除缓存后重启
+- <b>首次开机触摸板不可用，执行以下命令清除缓存后重启</b>
   - `sudo kextcache -i /`
 
 ## 资料
