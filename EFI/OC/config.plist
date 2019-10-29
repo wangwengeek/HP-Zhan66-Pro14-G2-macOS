@@ -184,13 +184,13 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>GACW to XGAC</string>
+				<string>GACW to XACW</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>FCVHQUNX</data>
+				<data>R0FDVwA=</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
@@ -198,7 +198,7 @@
 				<key>OemTableId</key>
 				<data></data>
 				<key>Replace</key>
-				<data>FCVYR0FD</data>
+				<data>WEFDVwA=</data>
 				<key>ReplaceMask</key>
 				<data></data>
 				<key>Skip</key>
@@ -210,13 +210,13 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>GBAW  to XGAB</string>
+				<string>GBAW  to XBAW</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>RQRHQkFX</data>
+				<data>R0JBVwA=</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
@@ -224,7 +224,7 @@
 				<key>OemTableId</key>
 				<data></data>
 				<key>Replace</key>
-				<data>RQRYR0FC</data>
+				<data>WEJBVwA=</data>
 				<key>ReplaceMask</key>
 				<data></data>
 				<key>Skip</key>
@@ -288,13 +288,13 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>ITLB to XITL</string>
+				<string>ITLB to XTLB</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>TQRJVExC</data>
+				<data>SVRMQgA=</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
@@ -302,7 +302,7 @@
 				<key>OemTableId</key>
 				<data></data>
 				<key>Replace</key>
-				<data>TQRYSVRM</data>
+				<data>WFRMQgA=</data>
 				<key>ReplaceMask</key>
 				<data></data>
 				<key>Skip</key>
@@ -320,7 +320,7 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>R0JUSQE=</data>
+				<data>R0JUSQFw</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
@@ -328,7 +328,7 @@
 				<key>OemTableId</key>
 				<data></data>
 				<key>Replace</key>
-				<data>WEJUSQE=</data>
+				<data>WEJUSQFw</data>
 				<key>ReplaceMask</key>
 				<data></data>
 				<key>Skip</key>
@@ -340,13 +340,13 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>GBTC to XGBU</string>
+				<string>GBTC to XBTC</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>QiBHQlRD</data>
+				<data>R0JUQwA=</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
@@ -354,7 +354,7 @@
 				<key>OemTableId</key>
 				<data></data>
 				<key>Replace</key>
-				<data>QiBYR0JV</data>
+				<data>WEJUQwA=</data>
 				<key>ReplaceMask</key>
 				<data></data>
 				<key>Skip</key>
@@ -366,13 +366,13 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>SBTC to XSBT</string>
+				<string>SBTC to YBTC</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>SSZTQlRD</data>
+				<data>U0JUQwM=</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
@@ -380,7 +380,7 @@
 				<key>OemTableId</key>
 				<data></data>
 				<key>Replace</key>
-				<data>SSZYU0JU</data>
+				<data>WUJUQwM=</data>
 				<key>ReplaceMask</key>
 				<data></data>
 				<key>Skip</key>
@@ -392,13 +392,13 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>GCGC to XGCG</string>
+				<string>GCGC to XCGC</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>TwdHQ0dD</data>
+				<data>R0NHQwg=</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
@@ -406,7 +406,7 @@
 				<key>OemTableId</key>
 				<data></data>
 				<key>Replace</key>
-				<data>TwdYR0NH</data>
+				<data>WENHQwg=</data>
 				<key>ReplaceMask</key>
 				<data></data>
 				<key>Skip</key>
@@ -484,27 +484,21 @@
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>AACbPg==</data>
+				<data>CQClPg==</data>
 				<key>device-id</key>
-				<data>mz4AAA==</data>
+				<data>pT4AAA==</data>
 				<key>disable-external-gpu</key>
 				<data>AQAAAA==</data>
 				<key>enable-hdmi20</key>
 				<data>AQAAAA==</data>
-				<key>enable-lspcon-support</key>
+				<key>framebuffer-patch-enable</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-con1-busid</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-con1-enable</key>
 				<data>AQAAAA==</data>
-				<key>framebuffer-con1-has-lspcon</key>
-				<data>AQAAAA==</data>
-				<key>framebuffer-con1-preferred-lspcon-mode</key>
-				<data>AQAAAA==</data>
 				<key>framebuffer-con1-type</key>
 				<data>AAgAAA==</data>
-				<key>framebuffer-patch-enable</key>
-				<data>AQAAAA==</data>
 			</dict>
 		</dict>
 		<key>Block</key>
@@ -924,7 +918,7 @@
 			<key>ShowPicker</key>
 			<true/>
 			<key>Timeout</key>
-			<integer>5</integer>
+			<integer>10</integer>
 			<key>UsePicker</key>
 			<true/>
 		</dict>
