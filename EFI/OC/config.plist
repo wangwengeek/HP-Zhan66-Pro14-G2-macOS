@@ -965,7 +965,7 @@
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>boot-args</key>
-				<string></string>
+				<string>-v</string>
 				<key>csr-active-config</key>
 				<data>5wMAAA==</data>
 				<key>nvda_drv</key>
@@ -986,7 +986,7 @@
 		<key>Generic</key>
 		<dict>
 			<key>MLB</key>
-			<string>C02912207QXJH4RA8</string>
+			<string></string>
 			<key>ROM</key>
 			<data>ESIzAAAA</data>
 			<key>SpoofVendor</key>
@@ -994,9 +994,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro15,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02YG0WMJHCC</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>8A3F8766-25EB-565B-386C-C82D5EA330F8</string>
+			<string></string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
