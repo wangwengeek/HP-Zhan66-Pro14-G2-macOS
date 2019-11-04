@@ -1,41 +1,50 @@
 //// battery
-// In config ACPI, GACW to XGAC
-// Find:     14254741 4357
-// Replace:  14255847 4143
+// In config ACPI, GACW to XACW
+// Find:     4741435700
+// Replace:  5841435700
+// TableSignature:44 53 44 54
 //
-// In config ACPI, GBAW  to XGAB
-// Find:     45044742 4157
-// Replace:  45045847 4142
+// In config ACPI, GBAW  to XBAW
+// Find:     4742415700
+// Replace:  5842415700
+// TableSignature:44 53 44 54
 //
 // In config ACPI, BTIF to XTIF
 // Find:     42544946 0979
 // Replace:  58544946 0979
+// TableSignature:44 53 44 54
 //
 // In config ACPI, BTST to XTST
 // Find:     42545354 0A
 // Replace:  58545354 0A
+// TableSignature:44 53 44 54
 //
-// In config ACPI, ITLB to XITL
-// Find:     4D044954 4C42
-// Replace:  4D045849 544C
+// In config ACPI, ITLB to XTLB
+// Find:     49544C4200
+// Replace:  58544C4200
+// TableSignature:44 53 44 54
 //
 //
 //
 // In config ACPI, GBTI to XBTI
-// Find:     47425449 01
-// Replace:  58425449 01
+// Find:     47425449 0170
+// Replace:  58425449 0170
+// TableSignature:44 53 44 54
 //
-// In config ACPI, GBTC to XGBU
-// Find:     42204742 5443
-// Replace:  42205847 4255
+// In config ACPI, GBTC to XBTC
+// Find:     4742544300
+// Replace:  5842544300
+// TableSignature:44 53 44 54
 //
-// In config ACPI, SBTC to XSBT
-// Find:     49265342 5443
-// Replace:  49265853 4254
+// In config ACPI, SBTC to YBTC
+// Find:     5342544303
+// Replace:  5942544303
+// TableSignature:44 53 44 54
 //
-// In config ACPI, GCGC to XGCG
-// Find:     4F074743 4743
-// Replace:  4F075847 4347
+// In config ACPI, GCGC to XCGC
+// Find:     4743474308
+// Replace:  5843474308
+// TableSignature:44 53 44 54
 //
 DefinitionBlock ("", "SSDT", 2, "ACDT", "BAT0", 0x00000000)
 {
@@ -74,15 +83,15 @@ DefinitionBlock ("", "SSDT", 2, "ACDT", "BAT0", 0x00000000)
     External (_SB.PCI0.LPCB.EC0.NLO2, IntObj)
     External (_SB.PCI0.LPCB.EC0.PSSB, FieldUnitObj)
     //
-    External (_SB.PCI0.LPCB.EC0.XGAC, MethodObj)
-    External (_SB.PCI0.LPCB.EC0.XGAB, MethodObj)
+    External (_SB.PCI0.LPCB.EC0.XACW, MethodObj)
+    External (_SB.PCI0.LPCB.EC0.XBAW, MethodObj)
     External (_SB.PCI0.LPCB.EC0.XTIF, MethodObj)
     External (_SB.PCI0.LPCB.EC0.XTST, MethodObj)
-    External (_SB.PCI0.LPCB.EC0.XITL, MethodObj)
+    External (_SB.PCI0.LPCB.EC0.XTLB, MethodObj)
     External (_SB.PCI0.LPCB.EC0.XBTI, MethodObj)
-    External (_SB.PCI0.LPCB.EC0.XGBU, MethodObj)
-    External (_SB.PCI0.LPCB.EC0.XSBT, MethodObj)
-    External (_TZ.XGCG, MethodObj)
+    External (_SB.PCI0.LPCB.EC0.XBTC, MethodObj)
+    External (_SB.PCI0.LPCB.EC0.YBTC, MethodObj)
+    External (_TZ.XCGC, MethodObj)
 
     Method (B1B2, 2, NotSerialized)
     {
@@ -169,7 +178,7 @@ DefinitionBlock ("", "SSDT", 2, "ACDT", "BAT0", 0x00000000)
               }
               Else
               {
-                Return (\_SB.PCI0.LPCB.EC0.XGAC())
+                Return (\_SB.PCI0.LPCB.EC0.XACW())
               } 
             }
 
@@ -196,7 +205,7 @@ DefinitionBlock ("", "SSDT", 2, "ACDT", "BAT0", 0x00000000)
               }
               Else
               {
-                Return (\_SB.PCI0.LPCB.EC0.XGAB())
+                Return (\_SB.PCI0.LPCB.EC0.XBAW())
               } 
             }
 
@@ -366,7 +375,7 @@ DefinitionBlock ("", "SSDT", 2, "ACDT", "BAT0", 0x00000000)
               }
               Else
               {
-                \_SB.PCI0.LPCB.EC0.XITL()
+                \_SB.PCI0.LPCB.EC0.XTLB()
               } 
             }
 
@@ -608,7 +617,7 @@ DefinitionBlock ("", "SSDT", 2, "ACDT", "BAT0", 0x00000000)
               }
               Else
               {
-                Return (\_SB.PCI0.LPCB.EC0.XGBU())
+                Return (\_SB.PCI0.LPCB.EC0.XBTC())
               } 
             }
 
@@ -810,7 +819,7 @@ DefinitionBlock ("", "SSDT", 2, "ACDT", "BAT0", 0x00000000)
               }
               Else
               {
-                Return (\_SB.PCI0.LPCB.EC0.XSBT(Arg0, Arg1, Arg2))
+                Return (\_SB.PCI0.LPCB.EC0.YBTC(Arg0, Arg1, Arg2))
               }
             }
     }
@@ -833,7 +842,7 @@ DefinitionBlock ("", "SSDT", 2, "ACDT", "BAT0", 0x00000000)
           }
           Else
           {
-            Return (\_TZ.XGCG())
+            Return (\_TZ.XCGC())
           } 
         }
     }

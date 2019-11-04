@@ -7,11 +7,10 @@
 ## 主要内容
 
 - **总述** 
-
 - ACPI 二进制更名
 - 预置变量法
 - **仿冒设备** 
-- **操作系统更名补丁** 
+- **操作系统补丁** 
 - 注入 X86
 - 仿冒 `EC` 
 - OC-`PNLF` 注入方法
@@ -29,6 +28,9 @@
 - `0D6D` 补丁
 - **仿冒以太网和重置以太网BSD Name** 
 - 亮度快捷键补丁
+- CMOS重置补丁
+- Dell机器补丁方法
+- ACPIDebug
 - 为了方便使用，整理了部分驱动列表，仅供参考：
 
   - config-Lilu-SMC-WEG-ALC 驱动列表
@@ -45,4 +47,4 @@
 
 - 感谢：@冬瓜-X1C5th, @OC-xlivans, @Air 13 IWL-GZ-Big Orange (OC perfect), @子骏oc IWL, @大勇-小新air13-OC-划水小白 等等
 
-- Thanks to [Acidanthera](https://github.com/acidanthera) for providing [AppleSupportPkg](https://github.com/acidanthera/AppleSupportPkg),  [MacInfoPkg](https://github.com/acidanthera/MacInfoPkg), [OCSupportPkg](https://github.com/acidanthera/OCSupportPkg) and [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg).
+- Thanks to [Acidanthera](https://github.com/acidanthera) for providing [AppleSupportPkg](https://github.com/acidanthera/AppleSupportPkg), ~~[AptioFixPkg](https://github.com/acidanthera/AptioFixPkg)~~(Achieved), [MacInfoPkg](https://github.com/acidanthera/MacInfoPkg), [OCSupportPkg](https://github.com/acidanthera/OCSupportPkg) and [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg).
