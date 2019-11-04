@@ -44,7 +44,7 @@ This repository provides Open Core configuration files for HP Zhan66 Pro14 G2.
   - 参阅：[精解OpenCore(2019.10.5).pdf](https://github.com/chiccheung/HP-Zhan66-Pro14-G2-macOS/tree/master/Docs/oc%E9%85%8D%E7%BD%AE%E5%B8%AE%E5%8A%A9%E8%AF%B4%E6%98%8E)
   - 工具：[macinfo](https://github.com/acidanthera/MacInfoPkg/releases)
 - <b>首次开机触摸板不可用，清除缓存后重启</b>
-  - <b>常用命令如下<b>
+  - <b>常用命令如下</b>
   - 挂载为可写模式 : `sudo mount -uw /`
   - 重启 Finder : `killall Finder`
   - 重建缓存 : `sudo kextcache -i /`
