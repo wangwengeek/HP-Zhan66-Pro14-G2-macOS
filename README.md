@@ -30,8 +30,9 @@ This repository provides Open Core configuration files for HP Zhan66 Pro14 G2.
 - 可使用[HIDPI](https://github.com/chiccheung/HP-Zhan66-Pro14-G2-macOS/tree/master/HIDPI)开启高清分辨率支持
 -  RtWlanU1827.kext & RtWlanU.kext <b>USB无线网卡驱动</b>
    - 参阅：[Wireless-USB-Adapter-Clover](https://github.com/chris1111/Wireless-USB-Adapter-Clover) 
-   - 默认已放置以上USB网卡驱动，但仍需安装上述驱动，否则状态栏不显示Wi-Fi图标。
-   - 运行后会在EFI目录下创建Clover文件夹，请手动删除。
+   - 默认已放置以上USB网卡驱动，但仍需安装上述驱动，否则状态栏不显示Wi-Fi图标
+   - 运行后会在EFI目录下创建Clover文件夹，请手动删除
+- 随航功能可正常使用
 
 <b>不正常工作项说明</b>
 
