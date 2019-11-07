@@ -16,7 +16,7 @@ This repository provides Open Core configuration files for HP Zhan66 Pro14 G2.
 | 独立显卡 | Nvidia MX250 |
 | 显示器   | 内建显示器 13.9 - 英寸 (1920 x 1080) |
 | 声卡     | Realtek ALC236  |
-| 网卡     | Wireless USB Network Card |
+| 网卡     | DW1830 |
 
 
 ## 详情
