@@ -112,19 +112,19 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>SSDT-RTC0.aml</string>
+				<string>SSDT-PMCR.aml</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
-				<string>SSDT-RTC0.aml</string>
+				<string>SSDT-PMCR.aml</string>
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>SSDT-PMCR.aml</string>
+				<string>SSDT-RTC0.aml</string>
 				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
-				<string>SSDT-PMCR.aml</string>
+				<string>SSDT-RTC0.aml</string>
 			</dict>
 		</array>
 		<key>Block</key>
@@ -1053,14 +1053,18 @@
 			<false/>
 			<key>ProvideConsoleGop</key>
 			<false/>
+			<key>ReconnectOnResChange</key>
+			<false/>
 			<key>ReleaseUsbOwnership</key>
 			<false/>
 			<key>ReplaceTabWithSpace</key>
 			<false/>
 			<key>RequestBootVarRouting</key>
-			<false/>
+			<true/>
 			<key>SanitiseClearScreen</key>
 			<false/>
+			<key>UnblockFsConnect</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
