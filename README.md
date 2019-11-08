@@ -28,7 +28,8 @@ This repository provides Open Core configuration files for HP Zhan66 Pro14 G2.
 - boot-args: `-v` 请按需选择是否保留
 - <b>亮度调节按键 FN+F3 | FN+F4</b>
 - 可使用[HIDPI](https://github.com/chiccheung/HP-Zhan66-Pro14-G2-macOS/tree/master/HIDPI)开启高清分辨率支持
-- 网卡更换为DW1830(Dell)，理论上支持DW1560, 1820A，未进行测试.
+- 网卡更换为DW1830(Dell)，理论上支持DW1560，未进行测试.
+  - DW1820A 参阅：[DW1820A/BCM94350ZAE/BCM94356ZEPA50DX插入的正确姿势]https://blog.daliansky.net/DW1820A_BCM94350ZAE-driver-inserts-the-correct-posture.html
 -  USB无线网卡驱动
    - 已不再支持，需自行参考以下资料进行添加
    - 参阅：[Wireless-USB-Adapter-Clover](https://github.com/chris1111/Wireless-USB-Adapter-Clover) 
