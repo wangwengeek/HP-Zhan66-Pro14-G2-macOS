@@ -21,7 +21,7 @@ This repository provides Open Core configuration files for HP Zhan66 Pro14 G2.
 
 ## 详情
 
-<b>系统版本：macOS Catalina 10.15.1 (19B88) ｜ Open Core 版本：0.5.2</b>
+<b>系统版本：macOS Catalina 10.15.1 (19B88) ｜ Open Core 版本：0.5.3</b>
 
 <b>正常工作项说明</b>
 
